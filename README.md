@@ -1,1 +1,10 @@
-# ALU-FPGA
+![image](https://github.com/proxima-602110/ALU-FPGA/blob/main/cla_note1.png)
+![image](https://github.com/proxima-602110/ALU-FPGA/blob/main/cla_note2.png)
+![image](https://github.com/proxima-602110/ALU-FPGA/blob/main/cla_note3.png)
+![image](https://github.com/proxima-602110/ALU-FPGA/blob/main/cla_note4.png)
+![image](https://github.com/proxima-602110/ALU-FPGA/blob/main/cla_note5.png)
+![image](https://github.com/proxima-602110/ALU-FPGA/blob/main/cla_note6.png)
+![image](https://github.com/proxima-602110/ALU-FPGA/blob/main/cla_note7.png)
+![image](https://github.com/proxima-602110/ALU-FPGA/blob/main/multiplier_note1.png)
+![image](https://github.com/proxima-602110/ALU-FPGA/blob/main/multiplier_note2.png)
+![image](https://github.com/proxima-602110/ALU-FPGA/blob/main/multiplier_note3.png)
